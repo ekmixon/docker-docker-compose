@@ -1,4 +1,4 @@
-FROM docker:latest
+FROM docker:23.0-dind
 
 
 # Install tzdata and change to Europe/Paris
