@@ -1,4 +1,4 @@
-FROM docker:latest
+FROM docker:26.1.4-dind-alpine3.20
 
 
 # Install tzdata and change to Europe/Paris
